@@ -1,0 +1,19 @@
+//Existing
+gtag("event", "banner_carousel", {
+  component_event_action: [
+    "Banner Carousel ;;; Personal Banking | ATB Financial ;;; /person" +
+    "al/"
+  ],
+  component_event_label: "Carousel Position 2",
+  send_to: "G-79ZVTKT225"
+});
+
+gtag("event", "banner_carousel", {
+  component_event_action: [
+    "Banner Carousel ;;; Personal Banking | ATB Financial ;;; /person" +
+    "al/"
+  ],
+  component_event_label: "Button Position 1 ;;; Save more now ;;; /pe" +
+                         "rsonal/savings-bonus/",
+  send_to: "G-79ZVTKT225"
+})

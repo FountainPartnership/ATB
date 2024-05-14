@@ -1,0 +1,31 @@
+//Existing
+dataLayer.push({
+  event: "componentEvent",
+  componentEventCategory: "Banner Carousel",
+  componentEventAction: "Banner Carousel ;;; Personal Banking | ATB Financial ;;; /personal/?_gl=" +
+                        "1*p4hmo0*_ga*NTA0MDc2NDM1LjE3MDgzNTk4OTY.*_ga_79ZVTKT225*MTcxNTY3Mzc4My4" +
+                        "xMS4xLjE3MTU2NzM5NjQuNjAuMC4w&_ga=2.79925329.793957604.1715673965-504076" +
+                        "435.1708359896",
+  componentEventLabel: "Button Position 1 ;;; Save more now ;;; /personal/savings-bonus/",
+  gtm.uniqueEventId: 532
+});
+
+dataLayer.push({
+  event: "componentEvent",
+  componentEventCategory: "Banner Card",
+  componentEventAction: "Personal Banking | ATB Financial ;;; /personal/?_gl=1*p4hmo0*_ga*NTA0MDc" +
+                        "2NDM1LjE3MDgzNTk4OTY.*_ga_79ZVTKT225*MTcxNTY3Mzc4My4xMS4xLjE3MTU2NzM5NjQ" +
+                        "uNjAuMC4w&_ga=2.79925329.793957604.1715673965-504076435.1708359896",
+  componentEventLabel: "Button ;;; Save more now ;;; /personal/savings-bonus/",
+  gtm.uniqueEventId: 484
+});
+
+dataLayer.push({
+  event: "componentEvent",
+  componentEventCategory: "Banner Card",
+  componentEventAction: "Personal Banking | ATB Financial ;;; /personal/?_gl=1*p4hmo0*_ga*NTA0MDc" +
+                        "2NDM1LjE3MDgzNTk4OTY.*_ga_79ZVTKT225*MTcxNTY3Mzc4My4xMS4xLjE3MTU2NzM5NjQ" +
+                        "uNjAuMC4w&_ga=2.79925329.793957604.1715673965-504076435.1708359896",
+  componentEventLabel: "Button ;;; Save more now ;;; /personal/savings-bonus/",
+  gtm.uniqueEventId: 484
+})
